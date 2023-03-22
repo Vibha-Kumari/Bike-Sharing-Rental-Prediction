@@ -55,6 +55,8 @@ Algorithms used:
 
 •	Ridge Regressor
 
+. linear regression
+
 •	Elastic net Regressor
 
 •	Random forest
